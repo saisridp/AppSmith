@@ -24,9 +24,15 @@
         {
           "value": true
         }
-      ]
+      ],
+      "formData": {
+        "entityType": {
+          "data": "ROWS"
+        }
+      }
     },
     "executeOnLoad": false,
+    "dynamicBindingPathList": [],
     "isValid": true,
     "invalids": [],
     "messages": [],

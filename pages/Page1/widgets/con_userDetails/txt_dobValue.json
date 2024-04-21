@@ -28,7 +28,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{new Date(tbl_userInfo.selectedRow.dob).toDateString()}}",
+    "text": "{{new Date(tbl_userInfo.selectedRow.Column-4).toDateString()}}",
     "key": "jl31nlbh5s",
     "isDeprecated": false,
     "rightColumn": 62,

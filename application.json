@@ -1,8 +1,16 @@
 {
   "pages": [
     {
+      "id": "Equipment",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "EmployeesTable",
+      "isDefault": false
     }
   ],
   "viewMode": false,

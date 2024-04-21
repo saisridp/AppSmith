@@ -28,10 +28,10 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_getUsers",
-              "name": "getUsers",
+              "id": "Page1_Api2",
+              "name": "Api2",
               "confirmBeforeExecute": false,
-              "pluginType": "DB",
+              "pluginType": "SAAS",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }

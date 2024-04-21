@@ -28,7 +28,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{tbl_userInfo.selectedRow.gender}}",
+    "text": "{{tbl_userInfo.selectedRow.Column-5}}",
     "key": "jl31nlbh5s",
     "isDeprecated": false,
     "rightColumn": 62,
