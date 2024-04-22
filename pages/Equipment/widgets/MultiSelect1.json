@@ -1,0 +1,75 @@
+{
+    "boxShadow": "none",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a6466795dfb50a097cd9e9b3a05e61d3.svg",
+    "labelText": "Label",
+    "topRow": 25,
+    "labelWidth": 5,
+    "type": "MULTI_SELECT_WIDGET_V2",
+    "serverSideFiltering": false,
+    "defaultOptionValue": [
+        "GREEN",
+        "RED"
+    ],
+    "animateLoading": true,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"}
+    ],
+    "placeholderText": "Select option(s)",
+    "isDisabled": false,
+    "isRequired": false,
+    "dynamicHeight": "FIXED",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "version": 1,
+    "tags": ["Select"],
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "needsErrorInfo": false,
+    "mobileBottomRow": 32,
+    "widgetName": "MultiSelect1",
+    "isFilterable": true,
+    "displayName": "MultiSelect",
+    "searchTags": [
+        "dropdown",
+        "tags"
+    ],
+    "bottomRow": 32,
+    "parentRowSpace": 10,
+    "hideCard": false,
+    "mobileRightColumn": 2,
+    "parentColumnSpace": 12.578125,
+    "labelPosition": "Top",
+    "sourceData": [
+        {
+            "code": "BLUE",
+            "name": "Blue"
+        },
+        {
+            "code": "GREEN",
+            "name": "Green"
+        },
+        {
+            "code": "RED",
+            "name": "Red"
+        }
+    ],
+    "key": "8ueyamd3cs",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 2,
+    "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.9770668f6ae1bf4d3b439b1d90948e94.svg",
+    "widgetId": "06g228hyrf",
+    "optionValue": "code",
+    "minWidth": 450,
+    "parentId": "0",
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 25,
+    "optionLabel": "name",
+    "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
+}

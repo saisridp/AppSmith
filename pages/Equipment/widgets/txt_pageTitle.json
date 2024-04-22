@@ -9,7 +9,7 @@
         "label"
     ],
     "topRow": 0,
-    "bottomRow": 6,
+    "bottomRow": 4,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -30,7 +30,7 @@
     "text": "Equipment Data (Reese Miller)",
     "key": "ph5glqkph7",
     "isDeprecated": false,
-    "rightColumn": 22,
+    "rightColumn": 26,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "s3xrf9fi96",
@@ -48,7 +48,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 14,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 6,
+    "originalBottomRow": 4,
     "fontSize": "1.25rem",
     "minDynamicHeight": 4
 }
